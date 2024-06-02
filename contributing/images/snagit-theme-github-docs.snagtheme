@@ -1355,10 +1355,11 @@
       "AspectRatio" : 1,
       "ShadowOpacity" : 60,
       "DropZoneGroupId" : 0,
-      "RotationAngle" : 0,
+      "RotationAngle" : 0, 
+
       "DashType" : "Solid",
       "BackgroundColor" : "#00000000"
     }
   ],
-  "Editable" : true
+  "Editable" : run
 }
